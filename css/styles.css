@@ -61,6 +61,8 @@ p{
     border-radius: 100%;
     margin-right: 30px;
     padding-top: 20px;
+    width: 25%
+
 }
 .docker-image{
     float: right;
@@ -68,6 +70,8 @@ p{
     text-align: center;
     margin-left: 20px;
     padding-top: 20px;
+    width: 25%
+
 }
 .docker-name{
     text-align: center;
@@ -88,6 +92,8 @@ hr{
     float: left;
     height: 30%;
     margin-right: 30px;
+    width: 25%
+
 }
 .headings{
     padding: 30px;
